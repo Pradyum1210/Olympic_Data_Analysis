@@ -84,21 +84,11 @@ This project demonstrates an end-to-end **data analysis and visualization pipeli
 
 ---
 
-# 8️⃣ Screenshots 📸
-
-"C:\Users\Pradyum\OneDrive\Pictures\Screenshots\Screenshot 2026-01-16 124647.png"
-
----
-
-# 9️⃣ How to Run the Project ⚙️
+# 8️⃣ How to Run the Project ⚙️
 
 ### Prerequisites
 - Python 3.x  
 - Streamlit  
 - Pandas, NumPy  
 - Plotly  
-- Matplotlib, Seaborn  
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
+- Matplotlib, Seaborn 
